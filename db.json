@@ -1,0 +1,28 @@
+{
+  "coches": [
+    {
+      "id": "1",
+      "marca": "Nissan",
+      "modelo": "Skyline GT-R R34",
+      "anio": 1999,
+      "precio": 85000,
+      "email": "kenji@garage.jp"
+    },
+    {
+      "id": "2",
+      "marca": "Toyota",
+      "modelo": "Supra A80",
+      "anio": 1996,
+      "precio": 70000,
+      "email": "aiko@garage.jp"
+    },
+    {
+      "id": "3",
+      "marca": "Mazda",
+      "modelo": "RX-7 FD",
+      "anio": 1997,
+      "precio": 40000,
+      "email": "takumi@garage.jp"
+    }
+  ]
+}
