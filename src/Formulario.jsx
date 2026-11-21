@@ -26,7 +26,8 @@ export default function Formulario() {
     });
 
     function onSubmit(datos) {
-        const { repetirEmail, ...coche} = datos;
+        const coche = { ...datos };
+        delete coche.repetirEmail;
         mutacion.mutate(coche);
     }
 
