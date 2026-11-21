@@ -23,6 +23,15 @@
       "anio": 1997,
       "precio": 40000,
       "email": "takumi@garage.jp"
+    },
+    {
+      "marca": "Toyota",
+      "modelo": "2006",
+      "anio": 2006,
+      "precio": 23453,
+      "email": "david@gmail.com",
+      "id": "52t3lXCNcd8"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

@@ -1,4 +1,4 @@
-import { esquemaLista } from "./squema.js";
+import { esquemaLista } from "./schema.js";
 
 const API_URL = import.meta.env.VITE_API_URL;
 
